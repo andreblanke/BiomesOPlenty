@@ -20,6 +20,7 @@ import biomesoplenty.common.integration.TreecapitatorIntegration;
 import biomesoplenty.common.network.BOPPacketHandler;
 import biomesoplenty.common.utils.BOPModInfo;
 import biomesoplenty.common.world.WorldTypeBOP;
+import biomesoplenty.common.world.WorldTypeBOPAmplified;
 import biomesoplenty.common.world.generation.WorldGenFieldAssociation;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -34,13 +35,13 @@ public class BiomesOPlenty
 {
     @Instance("BiomesOPlenty")
     public static BiomesOPlenty instance;
-    
+
     @SidedProxy(clientSide = "biomesoplenty.ClientProxy", serverSide = "biomesoplenty.CommonProxy")
     public static CommonProxy proxy;
-    
+
     public static CreativeTabs tabBiomesOPlenty;
     public static String configPath;
-    
+
     @EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
@@ -64,18 +65,19 @@ public class BiomesOPlenty
         proxy.registerRenderers();
         BOPIntegration.preInit();
     }
-    
+
     @EventHandler
     public void load(FMLInitializationEvent event)
     {
         TreecapitatorIntegration.init();
         BOPDimensions.init();
     }
-    
+
     @EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
     	BOPIntegration.postInit();
         BOPBiomes.worldTypeBOP = new WorldTypeBOP();
+        BOPBiomes.worldTypeBOPAmplified = new WorldTypeBOPAmplified();
     }
 }

@@ -99,7 +99,7 @@ tile.bop.treeMoss.name=Mech
 
 tile.bop.coral.kelpsingle.name=Listownicowce
 
-tile.bop.redCobbleStairs.name=Schody z czerwonego bruku        
+tile.bop.redCobbleStairs.name=Schody z czerwonego bruku
 tile.bop.redBricksStairs.name=Schody z czerwonej skały
 
 tile.bop.holyGrass.holygrass.name=Blok oczyszczonej trawy
@@ -356,5 +356,7 @@ phrase.bop.promisedPortalOther=Brama świata pojawiła się w górze
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP POWIĘKSZONY
+generator.BIOMESOPAMPL.info=Uwaga: tylko dla zabawy, potrzebny mocny komputer
 
 

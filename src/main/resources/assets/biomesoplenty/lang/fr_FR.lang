@@ -172,7 +172,7 @@ tile.jellyBlock.grape.name=Grape Jelly Block
 
 tile.bones.bones_small.name=Petit segment d'os
 tile.bones.bones_medium.name=Moyen segment d'os
-tile.bones.bones_large.name=Grand segment d'os 
+tile.bones.bones_large.name=Grand segment d'os
 
 tile.grave.name=Pierre tombale
 
@@ -467,3 +467,5 @@ achievement.bop.achAllBOP.desc=Vous avez tous les succès de Biomes O' Plenty!
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP Amplifié
+generator.BIOMESOPAMPL.info=Remarque : juste pour le fun, nécessite un ordinateur costaud

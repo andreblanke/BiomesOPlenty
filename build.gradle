@@ -69,6 +69,10 @@ processResources {
 
 jar {
     classifier = 'universal'
+    manifest {
+        attributes 'FMLCorePlugin': 'biomesoplenty.common.transformer.BiomesOPlentyCore'
+        attributes 'FMLCorePluginContainsFMLMod': 'true'
+    }
 }
 
 import net.minecraftforge.gradle.delayed.*

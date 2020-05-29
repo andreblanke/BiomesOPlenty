@@ -491,3 +491,5 @@ achievement.bop.achAllBOP.desc=あなたは Biomes O' Plenty の全ての実績�
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP アンプリファイド
+generator.BIOMESOPAMPL.info=注意: このオプションを楽しむためには、高性能のコンピュータ－が必要です

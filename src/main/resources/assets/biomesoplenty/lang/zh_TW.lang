@@ -129,7 +129,7 @@ tile.bop.coral.orangecoral.name=橙珊瑚
 tile.bop.coral.bluecoral.name=藍珊瑚
 tile.bop.coral.glowcoral.name=夜光珊瑚
 
-tile.bop.redCobbleStairs.name=紅巖圓石樓梯                 
+tile.bop.redCobbleStairs.name=紅巖圓石樓梯
 tile.bop.redBricksStairs.name=紅巖磚塊樓梯
 
 tile.bop.holyGrass.holygrass.name=純凈草
@@ -457,3 +457,5 @@ achievement.bop.achAllBOP.desc=你解鎖了超多生態群落的全部成就!
 itemGroup.tabBiomesOPlenty=超多生態群落
 
 generator.BIOMESOP=超多生態群落
+generator.BIOMESOPAMPL=超多生態群落 巨大化世界
+generator.BIOMESOPAMPL.info=注意：這只是為了好玩，需要強力電腦

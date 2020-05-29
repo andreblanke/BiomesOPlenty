@@ -95,7 +95,7 @@ tile.bop.treeMoss.name=Tree Moss
 
 tile.bop.coral.kelp.name=Kelp
 
-tile.bop.redCobbleStairs.name=Red Rock Cobblestone Stairs      
+tile.bop.redCobbleStairs.name=Red Rock Cobblestone Stairs
 tile.bop.redBricksStairs.name=Red Rock Bricks Stairs
 
 tile.bop.holyGrass.holygrass.name=Purified Grass
@@ -330,5 +330,7 @@ phrase.bop.promisedPortalOther=Een portal is verschenen in de lucht.
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP VERSTERKT
+generator.BIOMESOPAMPL.info=Let op: gewoon voor de lol, vereist een pittige computer
 
 

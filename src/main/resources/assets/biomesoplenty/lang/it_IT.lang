@@ -411,7 +411,7 @@ item.biomeEssence.name=Essenza di bioma
 item.poisonBucket.name=Secchio di veleno
 item.hell_bloodBucket.name=Secchio di sangue
 item.honeyBucket.name=Secchio di miele
- 
+
 tile.poison.name=Liquido velenoso
 tile.hell_blood.name=Sangue
 tile.honey.name=Miele
@@ -491,3 +491,5 @@ achievement.bop.achAllBOP.desc=Hai ottenuto tutte le conquiste di Biomes O' Plen
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP AMPLIFICATO
+generator.BIOMESOPAMPL.info=Nota bene: solo per sfizio, richiede un computer massiccio

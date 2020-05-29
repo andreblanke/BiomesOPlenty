@@ -512,3 +512,5 @@ achievement.bop.achAllBOP.desc=Вы получили все достижения
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP РАСШИРЕННЫЙ
+generator.BIOMESOPAMPL=Примечание. Режим для развлечения, требуется мощный компьютер.

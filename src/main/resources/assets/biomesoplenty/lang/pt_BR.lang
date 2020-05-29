@@ -144,8 +144,8 @@ tile.newBopGrass.loamy.name=Bloco Argiloso com Grama
 tile.newBopDirt.dirt_silty.name=Terra Siltosa
 tile.newBopDirt.dirt_sandy.name=Terra Arenosa
 tile.newBopDirt.dirt_loamy.name=Terra Argilosa
-tile.newBopDirt.coarse_dirt_silty.name=Terra Siltosa Suja 
-tile.newBopDirt.coarse_dirt_sandy.name=Terra Arenosa Suja 
+tile.newBopDirt.coarse_dirt_silty.name=Terra Siltosa Suja
+tile.newBopDirt.coarse_dirt_sandy.name=Terra Arenosa Suja
 tile.newBopDirt.coarse_dirt_loamy.name=Terra Argilosa Suja
 
 tile.bopGrass.spectralmoss.name=Musgo Espectral
@@ -491,3 +491,5 @@ achievement.bop.achAllBOP.desc=Você tem todas as conquistas do ´Biomes O' Plen
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP AMPLIFICADO
+generator.BIOMESOPAMPL.info=Aviso: Só por diversão, requer um computador muito bom

@@ -494,3 +494,5 @@ achievement.bop.achAllBOP.desc=Obtenez tous les succès de Biomes O' Plenty !
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP AMPLIFIÉ
+generator.BIOMESOPAMPL.info=Remarque : juste pour le plaisir, exige un ordinateur costaud

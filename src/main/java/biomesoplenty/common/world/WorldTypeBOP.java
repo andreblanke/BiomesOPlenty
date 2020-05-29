@@ -11,13 +11,18 @@ import biomesoplenty.common.world.layer.GenLayerBiomeBOP;
 
 public class WorldTypeBOP extends WorldType
 {
-	public WorldTypeBOP() 
+	public WorldTypeBOP()
 	{
-        super("BIOMESOP");
-        
+        this("BIOMESOP");
+	}
+
+	public WorldTypeBOP(String name)
+  {
+        super(name);
+
         DimensionManager.unregisterProviderType(0);
         DimensionManager.registerProviderType(0, WorldProviderSurfaceBOP.class, true);
-	}
+  }
 
     @Override
 	public GenLayer getBiomeLayer(long worldSeed, GenLayer parentLayer)
@@ -28,7 +33,7 @@ public class WorldTypeBOP extends WorldType
         ret = new GenLayerBiomeEdge(1000L, ret);
         return ret;
     }
-    
+
     @Override
 	public WorldChunkManager getChunkManager(World world)
     {

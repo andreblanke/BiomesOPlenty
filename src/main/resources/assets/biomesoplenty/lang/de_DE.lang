@@ -141,7 +141,7 @@ tile.bopGrass.smolderinggrass.name=Schwelender Grasblock
 
 tile.gemOre.amethystore.name=Enderamethysterz
 tile.gemOre.amethystblock.name=Amethystblock
-tile.gemOre.rubyore.name=Rubinerz 
+tile.gemOre.rubyore.name=Rubinerz
 tile.gemOre.rubyblock.name=Rubinblock
 tile.gemOre.peridotore.name=Peridoterz
 tile.gemOre.peridotblock.name=Peridotblock
@@ -473,3 +473,5 @@ achievement.bop.achAllBOP.desc=Du hast alle Biomes-O'-Plenty-Errungenschaften be
 itemGroup.tabBiomesOPlenty=Biomes O' Plenty
 
 generator.BIOMESOP=Biomes O' Plenty
+generator.BIOMESOPAMPL=BOP ZERKLÜFTET
+generator.BIOMESOPAMPL.info=Hinweis: Nur zum Spaß, erfordert schnellen Computer
