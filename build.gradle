@@ -67,6 +67,12 @@ processResources {
     }
 }
 
+/* Need this here so eclipse task generates correctly. */
+sourceCompatibility = targetCompatibility = '1.8'
+compileJava {
+    sourceCompatibility = targetCompatibility = '1.8'
+}
+
 jar {
     classifier = 'universal'
     manifest {
